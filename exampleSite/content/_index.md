@@ -1,10 +1,18 @@
 ---
+title: 个人介绍
+description: 这是我的个人内容
+date: '2023-07-30'
+aliases:
+  - about-us
+  - about-hugo
+  - contact
+license: CC BY-NC-ND
+lastmod: '2020-10-09'
 menu:
-    main:
-        name: Home
-        weight: -100
+    main: 
+        weight: -90
         params:
-            icon: home
+            icon: user
 ---
 
 大家好，我是HelloXHY，一个正在上学的MC服主、编程爱好者。

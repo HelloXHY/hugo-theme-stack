@@ -6,20 +6,20 @@ title: HelloXHY
 
 languages:
     en:
-        languageName: English
-        title: Example Site
-        description: Example description
+        languageName: 中文
+        title: HelloXHY
+        description: HelloXHY
         weight: 1
     zh-cn:
-        languageName: 中文
-        title: 演示站点
-        description: 演示说明
+        languageName: 中文2
+        title: HelloXHY
+        description: HelloXHY
         weight: 2
     ar:
-        languageName: عربي
+        languageName: 中文3
         languagedirection: rtl
-        title: موقع تجريبي
-        description: وصف تجريبي
+        title: HelloXHY
+        description: HelloXHY
         weight: 3
 
 # Change it to your Disqus shortname before using

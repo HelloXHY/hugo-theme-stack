@@ -57,7 +57,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: 这是我的个人网站
         avatar:
             enabled: true
             local: true

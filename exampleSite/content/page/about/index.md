@@ -1,7 +1,7 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: 个人介绍
+description: 这是我的个人内容
+date: '2023-07-30'
 aliases:
   - about-us
   - about-hugo
@@ -15,20 +15,16 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+大家好，我是HelloXHY，一个正在上学的MC服主、编程爱好者。
+我的MC服务器即将开服，预计在9月，到时候我会通知大家，并写出服务器信息、地址、版本。
+我正在学习java、python、html，所以我的网站有点简陋，希望大家不要喷。
+大家有什么建议、BUG、问题都可以在bilibili私信我，我回复可能有一点慢，但都会回复的，大家耐心等待。
+我可以免费给大家提供MC游戏问题的咨询。
+大家也可以在我的最新视频的评论区提供素材，比如开箱Windows11，测评XXXMC服务器等。
+最重要的是如果知道了我的真实信息也希望不用透露，感谢配合，也感谢大家支持哦QWQ！！！
 
-Hugo makes use of a variety of open source projects including:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+BiliBili主页：https://space.bilibili.com/3493264504130164?spm_id_from=333.788.0.0
+欢迎大家前来访问。
